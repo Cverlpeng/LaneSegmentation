@@ -3,6 +3,9 @@ this repo about Lane segmentation code
 
 ## current lane segmentation models
 ### 2019
+- FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network [paper](https://arxiv.org/pdf/1905.04354.pdf)
+- Agnostic Lane Detection [paper](https://arxiv.org/pdf/1905.03704.pdf)
+- End-to-end Lane Detection through Differentiable Least-Squares Fitting [paper](https://arxiv.org/pdf/1905.03704.pdf)
 
 ### 2018
 - Spatial As Deep: Spatial CNN for Traffic Scene Understanding [[***paper***]](https://arxiv.org/pdf/1712.06080.pdf) [[***github_torch***]](https://github.com/XingangPan/SCNN) [[***github_tensorflow***]](https://github.com/cardwing/Codes-for-Lane-Detection) [[***github_pytorch***]](https://github.com/forlovess/SCNN-pytorch)
